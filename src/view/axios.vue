@@ -4,12 +4,8 @@
 
 <script>
 export default {
-  data() {
-
-  },
+  data() {}
 }
 </script>
 
-<style>
-
-</style>
+<style></style>
