@@ -28,7 +28,7 @@ export default defineComponent({
         {
           name: 'Home',
           isActive: false,
-          path: '/'
+          path: '/home'
         },
         {
           name: 'Vuex',
