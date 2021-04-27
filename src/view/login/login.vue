@@ -1,16 +1,12 @@
 <template>
-  <div><router-view /></div>
+  <div>登陆页</div>
 </template>
 
 <script lang="ts">
 import { defineComponent } from 'vue'
-// import Main from '@/components/main.vue'
 
 export default defineComponent({
-  name: 'App',
-  components: {
-    // Main
-  }
+  name: 'login'
 })
 </script>
 

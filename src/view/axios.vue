@@ -1,10 +1,12 @@
 <template>
-  <div></div>
+  <div>axios</div>
 </template>
 
 <script>
 export default {
-  data() {}
+  data() {
+    return {}
+  }
 }
 </script>
 
